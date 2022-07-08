@@ -1,4 +1,4 @@
-# flutter_dark_mode_animation
+# Flutter Dark Mode Animation
 
 A new Flutter project.
 
