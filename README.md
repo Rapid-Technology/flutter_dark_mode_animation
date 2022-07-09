@@ -1,10 +1,6 @@
 # Flutter Dark Mode Animation
 
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=5yLzZikS15k">
-         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
-      </a>
-</div>
+[![Watch the video](video.jpg)](https://youtu.be/53sWTXgzR0U)
 
 ## Getting Started
 
