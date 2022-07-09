@@ -1,6 +1,6 @@
 # Flutter Dark Mode Animation
 
-[![Watch the video](video.jpg)](https://youtu.be/53sWTXgzR0U)
+[![Watch the video](video.jpg)](https://youtu.be/0p92l5dv-bw)
 
 ## Getting Started
 
